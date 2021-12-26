@@ -1,0 +1,6 @@
+com\jee47\spring\helloworld\MessageRenderer.class
+com\jee47\spring\helloworld\MessageProvider.class
+com\jee47\spring\helloworld\HelloWorldDecoupled.class
+com\jee47\spring\helloworld\HelloWorldMessageProvider.class
+com\jee47\spring\helloworld\StandardOutMessageRenderer.class
+com\jee47\spring\helloworld\App.class
